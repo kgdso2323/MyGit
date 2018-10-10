@@ -1,1 +1,2 @@
-hello£¬this is my first code on github¡£
+helloÂ£Â¬this is my first code on githubÂ¡Â£
+sunny today
